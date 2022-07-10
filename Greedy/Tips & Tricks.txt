@@ -1,0 +1,3 @@
+i think when we can skip events only then we can use activity selection algorithm. in case we can't skip any event as in case of minimum platforms, where we can't skip any train, we
+have to use arrival time instead of departure time. in this case it is like jo pehle aayausse pehle lgao which is logocal also ki jo train pehli aaegi usko pehle jagah do.
+in other case we need not take all the trains so there is no need to give space to the first train that comes.

@@ -1,0 +1,7 @@
+always think of a recursive function.
+if you can find it then you can most probably do the question.
+
+
+if you only have to find combination and not consider permutation
+then follow the 1-D table approach.
+see q-32 for reference.

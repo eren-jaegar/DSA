@@ -1,0 +1,11 @@
+To find the middle element, first initialize mid = head and count = 0 and then, we can run a loop where we increase mid only when count is odd.
+
+Node* mid = head;
+int count = 0;
+while(head)
+{
+	if(count%2 == 1)
+		mid = mid->next;
+	count++;
+	head = head->next;
+}

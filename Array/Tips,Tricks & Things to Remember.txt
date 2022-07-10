@@ -1,0 +1,2 @@
+1) If two or more arrays are to be dealt with, always think once of sorting and merging algorithm.
+2) Always think of two poiters and sliding window if trying to find a linear solution.
